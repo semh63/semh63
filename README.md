@@ -1,16 +1,33 @@
-## Hi there 👋
+# Semih Varhan
 
-<!--
-**semh63/semh63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software & IT Enthusiast specializing in **Python**, AI integration, and workflow automation. Focused on building practical tools, data scraping pipelines, and scalable software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Languages:** Python, SQL, HTML/CSS
+- **Frameworks & Libraries:** PyTorch, BeautifulSoup, OpenAI API
+- **Developer Tools:** Git, Visual Studio Code, Bash / CLI
+
+---
+
+### Focus Areas
+
+- Development of practical automation tools and web scrapers
+- Integration of AI/ML models into software pipelines
+- Software optimization and system scripts
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=semh63&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semh63&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+### Connect
+
+- **LinkedIn:** [linkedin.com/in/semh63](https://linkedin.com)
+- **Email:** s.varhan144@gmail.com
