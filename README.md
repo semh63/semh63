@@ -29,5 +29,5 @@ Software & IT Enthusiast specializing in **Python**, AI integration, and workflo
 
 ### Connect
 
-- **LinkedIn:** [linkedin.com/in/semh63](linkedin.com/in/semh63)
+- **LinkedIn:** [https://www.linkedin.com/in/semihvarhan/](https://linkedin.com).
 - **Email:** s.varhan144@gmail.com
